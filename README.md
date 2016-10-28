@@ -46,6 +46,8 @@ Author
 
 [pjc-url]: https://github.com/rsp/rsp-pjc#readme
 [github-url]: https://github.com/rsp/rsp-pjc-c03
+[issues-url]: https://github.com/rsp/rsp-pjc-c03/issues
+[gitlab-url]: https://gitlab.com/rsp/rsp-pjc-c03
 [travis-img]: https://travis-ci.org/rsp/rsp-pjc-c03.svg?branch=master
 [travis-url]: https://travis-ci.org/rsp/rsp-pjc-c03
 [gitlabci-img]: https://gitlab.com/rsp/rsp-pjc-c03/badges/master/build.svg
