@@ -1,15 +1,9 @@
 image: gcc
-
 build:
   stage: build
   script:
     - make
-  artifacts:
-    paths:
-      - z01
-
 test:
   stage: test
   script:
     - make test
-
