@@ -12,6 +12,17 @@ More PJC examples: https://github.com/rsp/rsp-pjc#readme
 Programs
 -
 * [**z01.cc**](z01.cc)
+* [**z02.cc**](z02.cc)
+* [**z03.cc**](z03.cc)
+* [**z04.cc**](z04.cc)
+* [**z05.cc**](z05.cc)
+
+Build scripts
+-
+* [**Makefile**](Makefile)
+* [**test.sh**](test.sh)
+* [**.travis.yml**](.travis.yml)
+* [**.gitlab-ci.yml**](.gitlab-ci.yml)
 
 Repos
 -
