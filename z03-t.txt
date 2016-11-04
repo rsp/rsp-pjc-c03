@@ -1,0 +1,2 @@
+AACTACGTC and ACGTA -> 16
+GCGC and AGGGCA -> 5
