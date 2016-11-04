@@ -1,0 +1,18 @@
+checking AbcDe93
+Too short
+No non-alphanumeric character
+
+checking A1b:A1b>
+Too few different characters
+
+checking Ab:Acb<
+Too short
+Too few different characters
+No digit
+
+checking abc123><
+No uppercase letter
+
+checking Zorro@123
+OK
+
