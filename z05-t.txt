@@ -1,0 +1,12 @@
+In array [ 4 4 5 4 4 ]
+the first longest monotonic sequence is
+[ 4 4 5 ] starting at index 0 and of length 3
+
+In array [ 4 4 5 4 4 4 ]
+the first longest monotonic sequence is
+[ 5 4 4 4 ] starting at index 2 and of length 4
+
+In array [ 4 5 4 4 5 ]
+the first longest monotonic sequence is
+[ 5 4 4 ] starting at index 1 and of length 3
+
