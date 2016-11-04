@@ -46,27 +46,27 @@ bool checkpass(const char* pass) {
     using std::cout; using std::endl;
     bool r = true;
     if (std::strlen(pass) < 8) {
-        cout << "Powinno byc co najmniej 8 znakow" << endl;
+        cout << "Too short" << endl;
         r = false;
     }
     if (distinct(pass) < 6) {
-        cout << "Powinno byc co najmniej 6 znakow roznych!" << endl;
+        cout << "Too few different characters" << endl;
         r = false;
     }
     if (!digits(pass)) {
-        cout << "Powinna byc co najmniej 1 cyfra!" << endl;
+        cout << "No digit" << endl;
         r = false;
     }
     if (!uppercase(pass)) {
-        cout << "Powinna byc co najmniej 1 duza litera!" << endl;
+        cout << "No uppercase letter" << endl;
         r = false;
     }
     if (!lowercase(pass)) {
-        cout << "Powinna byc co najmniej 1 mala litera!" << endl;
+        cout << "No lowercase letter" << endl;
         r = false;
     }
     if (!nonalpha(pass)) {
-        cout << "Powinna byc co najmniej 1 znak niealfanumeryczny!" << endl;
+        cout << "No non-alphanumeric character" << endl;
         r = false;
     }
     return r;
