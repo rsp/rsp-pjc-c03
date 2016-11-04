@@ -57,6 +57,10 @@ Usage
 ```sh
 make
 ./z01
+./z02
+./z03
+./z04
+./z05
 ```
 
 Issues
